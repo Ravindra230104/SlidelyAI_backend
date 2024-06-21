@@ -1,11 +1,4 @@
 # SlidelyAI_Backend
-
----
-
-Note - First run the backend server, then run the frontend part. Otherwise, the ViewSubmissionForm will show empty results.
-Link to the backend repository: [SlidelyAI_backend](https://github.com/Ravindra230104/SlidelyAI_backend)
-
----
 ---
 
 ## This repository contains the backend part of the task/assignment given by SlidelyAI.
